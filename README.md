@@ -9,4 +9,4 @@ Repositorio para la clase, laboratorios y tareas
  +  :computer: Laboratorio 1
  +  :school_satchel: Tarea 1
  
- ### Semana 2 
+ ### Semana 2 16/09/22
