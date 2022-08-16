@@ -58,3 +58,5 @@ dbh100 <- rnorm(100, mean = 10, sd= 2)
 hist(dbh100)
 dbh1000 <- rnorm(1000, mean = 10, sd= 2)
 hist(dbh1000)
+
+
