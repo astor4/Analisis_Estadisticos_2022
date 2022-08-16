@@ -10,3 +10,7 @@ Repositorio para la clase, laboratorios y tareas
  +  :school_satchel: Tarea 1
  
  ### Semana 2 16/09/22
+ 
+  + :notebook: Ingreso de datos a R
+ 
+ 
