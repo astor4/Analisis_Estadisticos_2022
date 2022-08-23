@@ -9,8 +9,13 @@ Repositorio para la clase, laboratorios y tareas
  +  :computer: Laboratorio 1
  +  :school_satchel: Tarea 1
  
- ### Semana 2 16/09/22
+### Semana 2 16/09/22
  
   + :notebook: Ingreso de datos a R
- 
+  + :computer: Laboratorio 2
+  + :school_satchel: Tarea 2
+  
+### Semana 3 23/08/22
+
+  + :notebook: Ingreso de datos a R
  
