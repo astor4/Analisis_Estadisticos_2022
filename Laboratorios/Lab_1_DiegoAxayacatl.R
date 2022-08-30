@@ -36,7 +36,7 @@ G.total.anu
 
 gastos <- c(celular, transporte, comestibles, gimnasio,
             alquiler, otros)
-ordenado <- sort(gastos, decreasing = F)
+ordenado <- sort(gastos, decreasing = TRUE)
 
 barplot(gastos, main = "Gastos mensuales", ylab = "Pesos", ylim = c(0,2000), col = 3, )
 
@@ -46,6 +46,7 @@ barplot(ordenado, main = "Gastos mensuales", ylab = "Pesos", ylim = c(0,2000), c
 ## Parte II
 
 ### Problema 1
+
 
 
 
