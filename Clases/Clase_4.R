@@ -44,3 +44,4 @@ Gro <- ferti %>%
   mutate(porciento = n/ sum(n)*100)
 barplot(Gro$porciento)
 
+write.csv(Gro,"Clases/Guerrero.csv", row.names = F)
