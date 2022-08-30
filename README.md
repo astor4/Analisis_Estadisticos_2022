@@ -9,6 +9,7 @@ Repositorio para la clase, laboratorios y tareas
 + :computer: _Laboratorios_:
 + [Laboratorio 1](Lab_1_DiegoAxayacatl.pdf) 
 + :school_satchel: _Tareas_
++ [Tarea 1](Tarea_1_DiegoAxayacatl.pdf)
  
 ### Semana 2 16/09/22
  
