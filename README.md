@@ -18,4 +18,5 @@ Repositorio para la clase, laboratorios y tareas
 ### Semana 3 23/08/22
 
   + :notebook: Ingreso de datos a R
+  
  
