@@ -21,4 +21,8 @@ Repositorio para la clase, laboratorios y tareas
 
   + :notebook: Ingreso de datos a R
   
+### Semana 4 30/08/22
+
++
+  
  
