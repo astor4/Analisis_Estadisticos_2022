@@ -14,7 +14,7 @@ sumat_xi
 sumat_yi <- sum(yi)
 sumat_yi
 
-sumat_yx <- sum(xi, yi)
+sumat_yx <- sum(xi * yi)
 sumat_yx      
 
 help(prod)
@@ -22,7 +22,7 @@ help(prod)
 prod_xi <- prod(xi, na.rm = FALSE)
 prod_xi
 
-prod_xy <- prod(xi, yi, na.rm = FALSE)
+prod_xy <- prod(xi * yi, na.rm = FALSE)
 prod_xy
 
 prod_xy2 <- prod(xi^2, yi^0.5, na.rm = FALSE)
@@ -120,9 +120,9 @@ mean(set_x5)
 
 ###a) 
 
-set_7 <- c(12,7,7,6,3)
+set_7 <- c(9,7,7,6,6)
 
-set_7.2 <- c(11,7,7,5,5)
+set_7.2 <- c(9,7,7,7,5)
 
 median(set_7)
 mean(set_7)
@@ -132,14 +132,15 @@ mean(set_7.2)
 
 ###b)
 
-set_7.3 <- c(7,4,10,7,1) 
+set_7.3 <- c(7,4,9,7,2) 
 
-set_7.4 <- c(4,7,5,8,10)
+set_7.4 <- c(4,7,6,8,9)
 
 median(set_7.3)
 mean(set_7.3)
 
 median(set_7.4)
 mean(set_7.4)
+
 
 
