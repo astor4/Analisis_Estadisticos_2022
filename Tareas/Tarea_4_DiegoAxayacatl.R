@@ -132,3 +132,5 @@ sd(fires)
 #9)77.90
 #10)
 boxplot(fires, horizontal = T, col = "purple", xlab = "Frecuencuencias de los incendios", main = "Incendios forestales en México")
+
+
