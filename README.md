@@ -23,6 +23,9 @@ Repositorio para la clase, laboratorios y tareas
   
 ### Semana 4 30/08/22
 
-+
+
+### Semana 5 06/09/23
+
+  + :notebook: Pruebas de normalidad y T-student
   
  
