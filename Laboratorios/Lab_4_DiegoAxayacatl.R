@@ -83,7 +83,7 @@ library(viridis) ##Libreria de R que provee paletas de colores amigables
 pie(frec_position, col = viridis(4)) ##El parentecis indica el numero de colores
                                      ##a utilizar de la paleta seleccionada
 
-pie(frec_position, col = viridis(4),           ##Para mostras los porcentajes en 
+pie(porc_position, col = viridis(4),           ##Para mostras los porcentajes en 
     labels = paste(levels(inventario$Posicion),##las etiquetas se puede utilizar
                    round(porc_position,2),"%"))##estas funciones
 
