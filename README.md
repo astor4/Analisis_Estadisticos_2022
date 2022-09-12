@@ -22,6 +22,10 @@ Repositorio para la clase, laboratorios y tareas
 ### Semana 3 23/08/22
 
   + :notebook: Ingreso de datos a R
+  + :computer: _Laboratorios_:
+  + [Laboratorio 3](Laboratorios/Lab_3_DiegoAxayacatl.R)
+  + :school_satchel: _Tareas_
+  + [Tarea 3](Tareas/Tarea_3_DiegoAxayacatl.pdf)
   
 ### Semana 4 30/08/22
 
