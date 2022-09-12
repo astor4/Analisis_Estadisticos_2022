@@ -17,7 +17,7 @@ Repositorio para la clase, laboratorios y tareas
   + :computer: _Laboratorios_:
   + [Laboratorio 2](Laboratorios/Lab_3_DiegoAxayacatl.R)
   + :school_satchel: _Tareas_
-  + [Tarea 2](Tarea_2_DiegoAxayacatl.pdf)
+  + [Tarea 2](Tareas/Tarea_2_DiegoAxayacatl.pdf)
   
 ### Semana 3 23/08/22
 
