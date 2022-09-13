@@ -1,3 +1,4 @@
+##Diego Axayacatl Gonzalez Cuellar
 ## Comparacion de medias
 
 ##Ingreso de datos
@@ -62,6 +63,7 @@ hist(azufre)
 
 t.test(azufre, mu=17.5)
 
+
 ## 1) Valor de p: 0.1893
 ## 2) Intervalos de confianza: 16.87912 - 20.53588
 ## 3) Grados de libertad: 39
@@ -80,13 +82,11 @@ tempad
 
 hist(tempad$temp_media)
 
-tempad$temp_media <- as.factor(tempad$temp_media)
-
 t.test(tempad$temp_media, mu=24)
 
 ## 1) Valor de p: 0.03615
 ## 2) Intervalos de confianza:  23.28216 - 23.97599
-## 3) Grados de libertad: 845 (no estoy seguro si deberian ser 199 ya que las
-##    el numero de muestras son 200)
+## 3) Grados de libertad: 845
 ## 4) Estadisticamente la hipotesis alterna ya que el p-value es menor que alfa
 ## 5) No existe evisdncia significativa
+
