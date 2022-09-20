@@ -42,7 +42,8 @@ shapiro.test(chickwts$weight)
 ks.test(chickwts$weight, "pnorm", mean=mean(chickwts$weight),
         sd=sd(chickwts$weight))
 
-t.test(chickwts$weight, mu=250)
+t.test(chickwts$weight, mu=250, alternative = "less") ## "less" para determinar
+## si la hipotesis alternativa es menor, "greater" para mayor
 
 
 # T-student de dos muestras -----------------------------------------------
