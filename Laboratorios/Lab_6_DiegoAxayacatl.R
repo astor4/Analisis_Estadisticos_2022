@@ -144,7 +144,7 @@ dat$Teams[dat$Wins > 40] #extrae los valores  con victorias mayores a 40
 dat$Teams[dat$Losses >= 10 & dat$Losses <= 29] #extrae los equipos entre 10 y 29
                                                #derrotas
 
-# Mi turno ----------------------------------------------------------------
+# Autoestudio ----------------------------------------------------------------
 
 #Los vectores ya se habian creado al principio
 
