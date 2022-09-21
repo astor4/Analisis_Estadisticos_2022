@@ -27,6 +27,7 @@ xy1.lm <- lm(y1 ~ x1)
 ## para el grupo de x1y1 el valor de r = 0.8164205, df = 9
 ## el valor de p = 0.00217 rechazando la hipotesis nula y aceptando la alterna
 ## denotando que si existe una diferencia significativa entre los datos
+## aunque la correlacion si sea signifiativa
 
 summary(xy1.lm)
 
@@ -37,6 +38,7 @@ xy2.lm <- lm(y2 ~ x2)
 ## para el grupo x2y2 el valor de r = 0.8162365, df = 9
 ## el valor de p = 0.002179 rechazando la hipotesis nula y aceptando la alterna
 ## demostrando que si existe una diferencia significativa entre los datos
+## aunque la correlacion si sea signifiativa
 
 summary(xy2.lm)
 
@@ -47,6 +49,7 @@ xy3.lm <- lm(y3 ~ x3)
 ## para el grupo x3y3 el valor de r = 0.8162867, df = 9
 ## el valor de p = 0.002176 aceptando la hipotesis alterna y rechazando la nula
 ## marcando que si existe una diferencia significativa entre los datos
+## aunque la correlacion si sea signifiativa
 
 summary(xy3.lm)
 
@@ -57,6 +60,7 @@ xy4.lm <- lm(y4 ~ x4)
 ## para el grupo x4y4 el valor de r = 0.8166967, df = 9
 ## el valor de p = 0.002156 aceptando la hipotesis alterna y rechazando la nula
 ## demostrando que si existe una diferencia significativa entre los datos
+## aunque la correlacion si sea signifiativa
 
 summary(xy4.lm)
 
