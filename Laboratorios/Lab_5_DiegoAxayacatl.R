@@ -81,7 +81,7 @@ abline(xy4.lm, col = "blue")
 par(op)
 
 ## Graficamente se puede notar que los datos mantienen correlaciones positivas
-## si embargo muestran distribuciones diferentes, el primer grupo xy1 cuentan
+## si embargo, muestran distribuciones diferentes, el primer grupo xy1 cuentan
 ## con una distribucion normal y un relacion linear simple
 ## el grupo xy2 tiene una distribucion anormal aunque el valor de r demuestre
 ## una relacion entre las variables, el grupo xy3 no cuenta con un relacion
