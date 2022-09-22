@@ -84,7 +84,7 @@ par(op)
 ## si embargo muestran distribuciones diferentes, el primer grupo xy1 cuentan
 ## con una distribucion normal y un relacion linear simple
 ## el grupo xy2 tiene una distribucion anormal aunque el valor de r demuestre
-## una relacion entre las variables, el grupo xy3 si cuenta con un relacion
+## una relacion entre las variables, el grupo xy3 no cuenta con un relacion
 ## lineal, sin embargo, la regresion no es concluyente dado por la distribucion
-## el grupo xy4, graficamente no cuenta con una correlacion linear, debido a
-## los datos atipicos.
+## el grupo xy4, graficamente cuenta con una distribucion linear, aunque
+## los datos sean atipicos.
