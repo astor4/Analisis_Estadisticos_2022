@@ -39,20 +39,25 @@ cor.test(suelo$pH, suelo$Ca)
 cor.test(suelo$pH, suelo$Mg)
 cor.test(suelo$pH, suelo$K)
 cor.test(suelo$pH, suelo$Na)
+cor.test(suelo$pH, suelo$Conduc)
 
-
-CuadroSuelo <- matrix(0,7,3)
+CuadroSuelo <- matrix(0,8,3)
 colnames(CuadroSuelo) <- (c("Conjunto","r","Valor de P"))
-rownames(CuadroSuelo)<- (c("1","2","3","4","5","6","7"))
+rownames(CuadroSuelo)<- (c("1","2","3","4","5","6","7","8"))
 
-conjunto <- c("pH - N", "pH - Dens", "pH - P", "pH - Ca", "pH - Mg", "pH - K", "pH - Na")
+conjunto <- c("pH - N", "pH - Dens", "pH - P", "pH - Ca", "pH - Mg", "pH - K",
+              "pH - Na", "pH-Conduc")
 CuadroSuelo [, 1] <- conjunto
 
-r <- c("0.636654", "-0.5890264", "0.5910303", "0.8086293", "-0.3957821", "0.5795727", "-0.693264")
+r <- c("0.636654", "-0.5890264", "0.5910303", "0.8086293", "-0.3957821",
+       "0.5795727", "-0.693264","-0.7648104")
 CuadroSuelo [, 2] <- r
 
-valordep <- c("0.00000149", "0.00001062", "0.00000974", "0.000000000003614", "0.005361", "0.00001585", "0.00000004724")
+valordep <- c("0.00000149", "0.00001062", "0.00000974", "0.000000000003614",
+              "0.005361", "0.00001585", "0.00000004724","0.0000000002484")
 CuadroSuelo [, 3] <- valordep
+
+CuadroSuelo
 
 plot(suelo$pH, suelo$N)
 plot(suelo$pH, suelo$Dens)
@@ -61,10 +66,11 @@ plot(suelo$pH, suelo$Ca)
 plot(suelo$pH, suelo$Mg)
 plot(suelo$pH, suelo$K)
 plot(suelo$pH, suelo$Na)
+plot(suelo$pH, suelo$Conduc)
 
 ## H0 = No existe una correlacion entre las caracteristicas fisico-quimicas
 ## del suelo y el pH
 ## Ha = Existe una correlacion positiva entre las caracteristicas
 ## fisico-quimicas del suelo y el pH
-## La hipotesis nula es rechazada en los grupos pH-N, pH-P,pH-Ca, pH-K, 
-## La hipotesis alterna fue rechazada en los grupos pH-Dens, pH-Mg, pH-Na
+## Si existe significancia en todos los grupos tratados.
+
