@@ -27,6 +27,7 @@ wait.med #media del tiempo de espera entre erupciones
 wait.sd <- sd(erupciones$waiting)
 wait.sd #desviacion estandar del tiempo de espera entre erupciones
 wait.var <- var(erupciones$waiting) #varianza del tiempo de espera entre erupciones
+wait.var
 
 cor.eruwait <- cor.test(erupciones$eruptions, erupciones$waiting)
 cor.eruwait # el valor de r = 0.9008112 y si cuenta con una
