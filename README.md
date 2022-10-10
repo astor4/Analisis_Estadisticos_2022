@@ -7,7 +7,8 @@ Repositorio para la clase, laboratorios y tareas
 ### Semana 1 :date:09/08/22
 
 + :notebook: Preparacion de nuestro equipo de computo
-+ :notebook_with_decorative_cover: _Clases_
++ 
++ :notebook_with_decorative_cover: _Clases_:
 + [Clase 1](Clases/Clase_1.R)
 + :computer: _Laboratorios_:
 + [Laboratorio 1](Lab_1_DiegoAxayacatl.pdf) 
@@ -17,7 +18,8 @@ Repositorio para la clase, laboratorios y tareas
 ### Semana 2 16/08/22
  
   + :notebook: Ingreso de datos a R
-  + :notebook_with_decorative_cover: _Clases_
+  + 
+  + :notebook_with_decorative_cover: _Clases_:
   + [Clase 2](Clases/Clase_2.R)
   + :computer: _Laboratorios_:
   + [Laboratorio 2](Laboratorios/Lab_3_DiegoAxayacatl.R)
@@ -27,7 +29,8 @@ Repositorio para la clase, laboratorios y tareas
 ### Semana 3 23/08/22
 
   + :notebook: Ingreso de datos con archivo CSV
-  + :notebook_with_decorative_cover: _Clases_
+  + 
+  + :notebook_with_decorative_cover: _Clases_:
   + [Clase 3] (Clases/Clase_3.R)
   + :computer: _Laboratorios_:
   + [Laboratorio 3](Laboratorios/Lab_3_DiegoAxayacatl.R)
@@ -37,7 +40,8 @@ Repositorio para la clase, laboratorios y tareas
 ### Semana 4 30/08/22
 
   + :notebook: Ingreso de datos abiertos desde un URL
-  + :notebook_with_decorative_cover: _Clases_
+  + 
+  + :notebook_with_decorative_cover: _Clases_:
   + [Clase 4](Clases/Clase_4.R)
   + :computer: _Laboratorios_:
   + [Laboratorio 4](Laboratorios/Lab_4_DiegoAxayacatl.pdf)
@@ -47,7 +51,8 @@ Repositorio para la clase, laboratorios y tareas
 ### Semana 5 20/09/23 
 
   + :notebook: Pruebas de normalidad y T-student
-  + :notebook_with_decorative_cover: _Clases_
+  + 
+  + :notebook_with_decorative_cover: _Clases_:
   + [Clase 5](Clases/Clase_5.R)
   + :computer: _Laboratorios_:
   + [Laboratorio 5](Laboratorios/Lab_5_DiegoAxayacatl.pdf)
@@ -57,7 +62,8 @@ Repositorio para la clase, laboratorios y tareas
 ### Semana 6 27/09/23  
 
   + :notebook: Correlación y regresión 
-  + :notebook_with_decorative_cover: _Clases_
+  + 
+  + :notebook_with_decorative_cover: _Clases_:
   + [Clase 6](Clases/Clase_6.R)
   + :computer: _Laboratorios_:
   + [Laboratorio 6](Laboratorios/Lab_6_DiegoAxayacatl.pdf)
@@ -67,7 +73,8 @@ Repositorio para la clase, laboratorios y tareas
   ### Semana 7 27/09/23 
 
   + :notebook: Analisis de Varianza (ANOVA)
-  + :notebook_with_decorative_cover: _Clases_
+  + 
+  + :notebook_with_decorative_cover: _Clases_:
   + [Clase 7](Clases/Clase_7.R)
   + :school_satchel: _Tareas_
   + [Tarea 7](Tareas/Tarea_7_DiegoAxayacatl.R)
@@ -75,5 +82,6 @@ Repositorio para la clase, laboratorios y tareas
    ### Semana 8 04/09/23 
 
   + :notebook: Examen Analisis Estadisticos
-  + :page_with_curl: _Examen_
+  + 
+  + :page_with_curl: _Examen_:
   + [Examen](Examen-Analisis-Estadisticos.pdf)
