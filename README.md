@@ -8,7 +8,7 @@ Repositorio para la clase, laboratorios y tareas
 
 + :notebook: Preparacion de nuestro equipo de computo
 + :notebook_with_decorative_cover: _Clases_
-+ [Clase 1] (Clases/Clase_1.R)
++ [Clase 1](Clases/Clase_1.R)
 + :computer: _Laboratorios_:
 + [Laboratorio 1](Lab_1_DiegoAxayacatl.pdf) 
 + :school_satchel: _Tareas_:
@@ -18,7 +18,7 @@ Repositorio para la clase, laboratorios y tareas
  
   + :notebook: Ingreso de datos a R
   + :notebook_with_decorative_cover: _Clases_
-  + [Clase 2] (Clases/Clase_2.R)
+  + [Clase 2](Clases/Clase_2.R)
   + :computer: _Laboratorios_:
   + [Laboratorio 2](Laboratorios/Lab_3_DiegoAxayacatl.R)
   + :school_satchel: _Tareas_
@@ -38,7 +38,7 @@ Repositorio para la clase, laboratorios y tareas
 
   + :notebook: Ingreso de datos abiertos desde un URL
   + :notebook_with_decorative_cover: _Clases_
-  + [Clase 4] (Clases/Clase_4.R)
+  + [Clase 4](Clases/Clase_4.R)
   + :computer: _Laboratorios_:
   + [Laboratorio 4](Laboratorios/Lab_4_DiegoAxayacatl.pdf)
   + :school_satchel: _Tareas_
@@ -48,7 +48,7 @@ Repositorio para la clase, laboratorios y tareas
 
   + :notebook: Pruebas de normalidad y T-student
   + :notebook_with_decorative_cover: _Clases_
-  + [Clase 5] (Clases/Clase_5.R)
+  + [Clase 5](Clases/Clase_5.R)
   + :computer: _Laboratorios_:
   + [Laboratorio 5](Laboratorios/Lab_5_DiegoAxayacatl.pdf)
   + :school_satchel: _Tareas_
@@ -58,7 +58,7 @@ Repositorio para la clase, laboratorios y tareas
 
   + :notebook: Correlación y regresión 
   + :notebook_with_decorative_cover: _Clases_
-  + [Clase 6] (Clases/Clase_6.R)
+  + [Clase 6](Clases/Clase_6.R)
   + :computer: _Laboratorios_:
   + [Laboratorio 6](Laboratorios/Lab_6_DiegoAxayacatl.pdf)
   + :school_satchel: _Tareas_
@@ -68,7 +68,7 @@ Repositorio para la clase, laboratorios y tareas
 
   + :notebook: Analisis de Varianza (ANOVA)
   + :notebook_with_decorative_cover: _Clases_
-  + [Clase 7] (Clases/Clase_7.R)
+  + [Clase 7](Clases/Clase_7.R)
   + :school_satchel: _Tareas_
   + [Tarea 7](Tareas/Tarea_7_DiegoAxayacatl.R)
   
