@@ -6,7 +6,7 @@ Repositorio para la clase, laboratorios y tareas
 
 ### Semana 1 :date:09/08/22
 
-#:notebook: Preparacion de nuestro equipo de computo
+# :notebook: Preparacion de nuestro equipo de computo
 
 + :notebook_with_decorative_cover: _Clases_:
 + [Clase 1](Clases/Clase_1.R)
