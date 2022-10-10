@@ -2,6 +2,7 @@
 ##Diego Axayacatl Gonzalez Cuellar
 ##1610823
 
+
 ## x = variables independiente y = variables dependientes
 
 ## Correlacion positiva = a medida que aumenta x aumenta y  +1
