@@ -7,6 +7,7 @@
 ## Correlacion positiva = a medida que aumenta x aumenta y  +1
 ## Correlacion negativa = a medida que aumenta y dismunye x -1
 
+
 ## Regression: estima la linea de tendencia central de los datos 
 
 #Correlacion
