@@ -23,7 +23,7 @@ Repositorio para la clase, laboratorios y tareas
   + [Clase 2](Clases/Clase_2.R)
   + :computer: _Laboratorios_:
   + [Laboratorio 2](Laboratorios/Lab_3_DiegoAxayacatl.R)
-  + :school_satchel: _Tareas_
+  + :school_satchel: _Tareas_:
   + [Tarea 2](Tareas/Tarea_2_DiegoAxayacatl.pdf)
   
 ### Semana 3 23/08/22
@@ -34,7 +34,7 @@ Repositorio para la clase, laboratorios y tareas
   + [Clase 3](Clases/Clase_3.R)
   + :computer: _Laboratorios_:
   + [Laboratorio 3](Laboratorios/Lab_3_DiegoAxayacatl.R)
-  + :school_satchel: _Tareas_
+  + :school_satchel: _Tareas_:
   + [Tarea 3](Tareas/Tarea_3_DiegoAxayacatl.pdf)
   
 ### Semana 4 30/08/22
@@ -45,7 +45,7 @@ Repositorio para la clase, laboratorios y tareas
   + [Clase 4](Clases/Clase_4.R)
   + :computer: _Laboratorios_:
   + [Laboratorio 4](Laboratorios/Lab_4_DiegoAxayacatl.pdf)
-  + :school_satchel: _Tareas_
+  + :school_satchel: _Tareas_:
   + [Tarea 4](Tareas/Tarea_4_DiegoAxayacatl.pdf)
 
 ### Semana 5 20/09/23 
@@ -56,7 +56,7 @@ Repositorio para la clase, laboratorios y tareas
   + [Clase 5](Clases/Clase_5.R)
   + :computer: _Laboratorios_:
   + [Laboratorio 5](Laboratorios/Lab_5_DiegoAxayacatl.pdf)
-  + :school_satchel: _Tareas_
+  + :school_satchel: _Tareas_:
   + [Tarea 5](Tareas/Tarea_5_DiegoAxayacatl.pdf)
  
 ### Semana 6 27/09/23  
@@ -67,7 +67,7 @@ Repositorio para la clase, laboratorios y tareas
   + [Clase 6](Clases/Clase_6.R)
   + :computer: _Laboratorios_:
   + [Laboratorio 6](Laboratorios/Lab_6_DiegoAxayacatl.pdf)
-  + :school_satchel: _Tareas_
+  + :school_satchel: _Tareas_:
   + [Tarea 6](Tareas/Tarea_6_DiegoAxayacatl.pdf)
   
   ### Semana 7 27/09/23 
@@ -76,7 +76,7 @@ Repositorio para la clase, laboratorios y tareas
   
   + :notebook_with_decorative_cover: _Clases_:
   + [Clase 7](Clases/Clase_7.R)
-  + :school_satchel: _Tareas_
+  + :school_satchel: _Tareas_:
   + [Tarea 7](Tareas/Tarea_7_DiegoAxayacatl.R)
   
    ### Semana 8 04/09/23 
